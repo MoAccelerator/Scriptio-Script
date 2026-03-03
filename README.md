@@ -1,5 +1,5 @@
 # Scriptio-Script
-
+屎山品鉴大赏）
 ##Universal Repeater
 
 在消息旁添加「+1」按钮，同时屏蔽 QQ 内置的「+1」按钮。
